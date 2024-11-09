@@ -1,3 +1,3 @@
-npm install
-npm run android
-For emergency (npm install -g typescript)
+1. npm install
+2. npm run android
+3. For emergency (npm install -g typescript)
